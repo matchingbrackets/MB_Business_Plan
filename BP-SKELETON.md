@@ -55,7 +55,7 @@ How an idea becomes a published content
 7. Promote
 
 ## 07. Script Development Strategy
-Hoe you write scripts (especially for video)
+How you write scripts (especially for video)
 - Script style (bullet-based, full narration, hybrid)
 - Reusable structure (intro, body, outro)
 - Time targets (5 min, 10 min, etc.)
